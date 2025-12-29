@@ -2,6 +2,8 @@
 
 ### Mid-Level Developer & Graphic Designer
 
+- 👨‍💻 All of my projects are available at **[https://egeozalan.com](https://egeozalan.com)**
+
 - 🔭 I'm currently working on **Weoviop | https://egeozalan.com/weaviop/**
 
 - 🌱 I'm currently learning **React, Vue**
@@ -13,8 +15,6 @@
 - 📫 How to reach me **iletisim@egeozalan.com**
 
 - ⚡ Fun fact **I'm a Batman**
-
-- 👨‍💻 All of my projects are available at **[https://egeozalan.com](https://egeozalan.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
